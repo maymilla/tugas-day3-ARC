@@ -1,0 +1,11 @@
+{
+  "name": "jawab-soal-1",
+  "version": "1.0.0",
+  "description": "Jawab soal 1 tugas day 3 ARC",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}

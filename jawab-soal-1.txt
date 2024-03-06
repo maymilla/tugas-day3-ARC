@@ -1,0 +1,5 @@
+Library Axios adalah library JavaScript yang memungkinkan user untuk berinteraksi dengan server/website lain secara tidak langsung. Berikut beberapa hal yang dapat dilakukan menggunkaan library Axios :
+- membuat request XMLHttpRequest dari browser (mengambil data dari URL tanpa me-refresh laman secara penuh)
+- membut HTTP request dari Node.js
+- menghentikan request dan response
+- dan lain lain
